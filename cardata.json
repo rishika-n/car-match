@@ -1,0 +1,522 @@
+[
+    {
+        "make": "Toyota",
+        "model": "Camry",
+        "year": 2022,
+        "cost": 25000,
+        "type": "Sedan",
+        "body_style": "Four-door",
+        "mileage_mpg": 30,
+        "seating_capacity": 5
+    },
+    {
+        "make": "Honda",
+        "model": "Civic",
+        "year": 2023,
+        "cost": 22000,
+        "type": "Sedan",
+        "body_style": "Four-door",
+        "mileage_mpg": 32,
+        "seating_capacity": 5
+    },
+    {
+        "make": "Ford",
+        "model": "F-150",
+        "year": 2022,
+        "cost": 35000,
+        "type": "Truck",
+        "body_style": "Four-door",
+        "mileage_mpg": 20,
+        "seating_capacity": 5
+    },
+    {
+        "make": "Chevrolet",
+        "model": "Equinox",
+        "year": 2022,
+        "cost": 28000,
+        "type": "SUV",
+        "body_style": "Five-door",
+        "mileage_mpg": 28,
+        "seating_capacity": 5
+    },
+    {
+        "make": "Volkswagen",
+        "model": "Golf",
+        "year": 2023,
+        "cost": 27000,
+        "type": "Hatchback",
+        "body_style": "Four-door",
+        "mileage_mpg": 35,
+        "seating_capacity": 5
+    },
+    {
+        "make": "Subaru",
+        "model": "Outback",
+        "year": 2022,
+        "cost": 32000,
+        "type": "Crossover",
+        "body_style": "Five-door",
+        "mileage_mpg": 26,
+        "seating_capacity": 5
+    },
+    {
+        "make": "Jeep",
+        "model": "Wrangler",
+        "year": 2022,
+        "cost": 40000,
+        "type": "SUV",
+        "body_style": "Two-door",
+        "mileage_mpg": 22,
+        "seating_capacity": 4
+    },
+    {
+        "make": "BMW",
+        "model": "3 Series",
+        "year": 2023,
+        "cost": 45000,
+        "type": "Sedan",
+        "body_style": "Four-door",
+        "mileage_mpg": 28,
+        "seating_capacity": 5
+    },
+    {
+        "make": "Mercedes-Benz",
+        "model": "C-Class",
+        "year": 2022,
+        "cost": 48000,
+        "type": "Sedan",
+        "body_style": "Four-door",
+        "mileage_mpg": 30,
+        "seating_capacity": 5
+    },
+    {
+        "make": "Audi",
+        "model": "Q5",
+        "year": 2022,
+        "cost": 42000,
+        "type": "SUV",
+        "body_style": "Five-door",
+        "mileage_mpg": 26,
+        "seating_capacity": 5
+    },
+    {
+        "make": "Nissan",
+        "model": "Altima",
+        "year": 2023,
+        "cost": 26000,
+        "type": "Sedan",
+        "body_style": "Four-door",
+        "mileage_mpg": 32,
+        "seating_capacity": 5
+    },
+    {
+        "make": "Hyundai",
+        "model": "Tucson",
+        "year": 2022,
+        "cost": 29000,
+        "type": "SUV",
+        "body_style": "Five-door",
+        "mileage_mpg": 30,
+        "seating_capacity": 5
+    },
+    {
+        "make": "Kia",
+        "model": "Sorento",
+        "year": 2023,
+        "cost": 31000,
+        "type": "SUV",
+        "body_style": "Five-door",
+        "mileage_mpg": 28,
+        "seating_capacity": 7
+    },
+    {
+        "make": "Tesla",
+        "model": "Model 3",
+        "year": 2022,
+        "cost": 50000,
+        "type": "Electric",
+        "body_style": "Four-door",
+        "mileage_mpg": 300,
+        "seating_capacity": 5
+    },
+    {
+        "make": "Lexus",
+        "model": "RX",
+        "year": 2022,
+        "cost": 46000,
+        "type": "SUV",
+        "body_style": "Five-door",
+        "mileage_mpg": 27,
+        "seating_capacity": 5
+    },
+    {
+        "make": "Ford",
+        "model": "Mustang",
+        "year": 2022,
+        "cost": 42000,
+        "type": "Sports Car",
+        "body_style": "Two-door",
+        "mileage_mpg": 25,
+        "seating_capacity": 4
+    },
+    {
+        "make": "Toyota",
+        "model": "Rav4",
+        "year": 2022,
+        "cost": 28000,
+        "type": "SUV",
+        "body_style": "Five-door",
+        "mileage_mpg": 29,
+        "seating_capacity": 5
+    },
+    {
+        "make": "Jeep",
+        "model": "Cherokee",
+        "year": 2022,
+        "cost": 35000,
+        "type": "SUV",
+        "body_style": "Five-door",
+        "mileage_mpg": 26,
+        "seating_capacity": 5
+    },
+    {
+        "make": "Mazda",
+        "model": "CX-5",
+        "year": 2023,
+        "cost": 29000,
+        "type": "SUV",
+        "body_style": "Five-door",
+        "mileage_mpg": 30,
+        "seating_capacity": 5
+    },
+    {
+        "make": "Chevrolet",
+        "model": "Silverado",
+        "year": 2022,
+        "cost": 38000,
+        "type": "Truck",
+        "body_style": "Four-door",
+        "mileage_mpg": 18,
+        "seating_capacity": 6
+    },
+    {
+        "make": "Volvo",
+        "model": "XC60",
+        "year": 2023,
+        "cost": 49000,
+        "type": "SUV",
+        "body_style": "Five-door",
+        "mileage_mpg": 24,
+        "seating_capacity": 5
+    },
+    {
+        "make": "Cadillac",
+        "model": "XT5",
+        "year": 2022,
+        "cost": 52000,
+        "type": "SUV",
+        "body_style": "Five-door",
+        "mileage_mpg": 23,
+        "seating_capacity": 5
+    },
+    {
+        "make": "GMC",
+        "model": "Sierra",
+        "year": 2022,
+        "cost": 40000,
+        "type": "Truck",
+        "body_style": "Four-door",
+        "mileage_mpg": 20,
+        "seating_capacity": 6
+    },
+    {
+        "make": "Acura",
+        "model": "MDX",
+        "year": 2022,
+        "cost": 48000,
+        "type": "SUV",
+        "body_style": "Five-door",
+        "mileage_mpg": 27,
+        "seating_capacity": 7
+    },
+    {
+        "make": "Land Rover",
+        "model": "Range Rover",
+        "year": 2023,
+        "cost": 90000,
+        "type": "SUV",
+        "body_style": "Five-door",
+        "mileage_mpg": 21,
+        "seating_capacity": 5
+    },
+    {
+        "make": "Porsche",
+        "model": "911",
+        "year": 2022,
+        "cost": 120000,
+        "type": "Sports Car",
+        "body_style": "Two-door",
+        "mileage_mpg": 23,
+        "seating_capacity": 4
+    },
+    {
+        "make": "Mitsubishi",
+        "model": "Outlander",
+        "year": 2022,
+        "cost": 26000,
+        "type": "SUV",
+        "body_style": "Five-door",
+        "mileage_mpg": 25,
+        "seating_capacity": 7
+    },
+    {
+        "make": "Jaguar",
+        "model": "F-PACE",
+        "year": 2023,
+        "cost": 55000,
+        "type": "SUV",
+        "body_style": "Five-door",
+        "mileage_mpg": 24,
+        "seating_capacity": 5
+    },
+    {
+        "make": "Chrysler",
+        "model": "300",
+        "year": 2022,
+        "cost": 35000,
+        "type": "Sedan",
+        "body_style": "Four-door",
+        "mileage_mpg": 23,
+        "seating_capacity": 5
+    },
+    {
+        "make": "Buick",
+        "model": "Encore",
+        "year": 2022,
+        "cost": 26000,
+        "type": "SUV",
+        "body_style": "Five-door",
+        "mileage_mpg": 30,
+        "seating_capacity": 5
+    },
+    {
+        "make": "Lincoln",
+        "model": "Navigator",
+        "year": 2023,
+        "cost": 70000,
+        "type": "SUV",
+        "body_style": "Five-door",
+        "mileage_mpg": 21,
+        "seating_capacity": 7
+    },
+    {
+        "make": "Maserati",
+        "model": "Ghibli",
+        "year": 2022,
+        "cost": 75000,
+        "type": "Sedan",
+        "body_style": "Four-door",
+        "mileage_mpg": 19,
+        "seating_capacity": 5
+    },
+    {
+        "make": "Aston Martin",
+        "model": "DB11",
+        "year": 2022,
+        "cost": 200000,
+        "type": "Sports Car",
+        "body_style": "Two-door",
+        "mileage_mpg": 18,
+        "seating_capacity": 4
+    },
+    {
+        "make": "Lamborghini",
+        "model": "Aventador",
+        "year": 2023,
+        "cost": 500000,
+        "type": "Sports Car",
+        "body_style": "Two-door",
+        "mileage_mpg": 10,
+        "seating_capacity": 2
+    },
+    {
+        "make": "Rolls-Royce",
+        "model": "Phantom",
+        "year": 2022,
+        "cost": 500000,
+        "type": "Luxury Sedan",
+        "body_style": "Four-door",
+        "mileage_mpg": 12,
+        "seating_capacity": 5
+    },
+    {
+        "make": "Bentley",
+        "model": "Continental GT",
+        "year": 2023,
+        "cost": 250000,
+        "type": "Luxury Coupe",
+        "body_style": "Two-door",
+        "mileage_mpg": 17,
+        "seating_capacity": 4
+    },
+    {
+        "make": "Ferrari",
+        "model": "488 GTB",
+        "year": 2022,
+        "cost": 300000,
+        "type": "Sports Car",
+        "body_style": "Two-door",
+        "mileage_mpg": 15,
+        "seating_capacity": 2
+    },
+    {
+        "make": "Bugatti",
+        "model": "Chiron",
+        "year": 2022,
+        "cost": 3000000,
+        "type": "Hypercar",
+        "body_style": "Two-door",
+        "mileage_mpg": 9,
+        "seating_capacity": 2
+    },
+    {
+        "make": "Koenigsegg",
+        "model": "Jesko",
+        "year": 2023,
+        "cost": 2800000,
+        "type": "Hypercar",
+        "body_style": "Two-door",
+        "mileage_mpg": 11,
+        "seating_capacity": 2
+    },
+    {
+        "make": "Porsche",
+        "model": "Taycan",
+        "year": 2022,
+        "cost": 90000,
+        "type": "Electric",
+        "body_style": "Four-door",
+        "mileage_mpg": 240,
+        "seating_capacity": 4
+    },
+    {
+        "make": "Lotus",
+        "model": "Evora",
+        "year": 2022,
+        "cost": 100000,
+        "type": "Sports Car",
+        "body_style": "Two-door",
+        "mileage_mpg": 20,
+        "seating_capacity": 2
+    },
+    {
+        "make": "McLaren",
+        "model": "720S",
+        "year": 2022,
+        "cost": 300000,
+        "type": "Sports Car",
+        "body_style": "Two-door",
+        "mileage_mpg": 15,
+        "seating_capacity": 2
+    },
+    {
+        "make": "Morgan",
+        "model": "Plus Four",
+        "year": 2023,
+        "cost": 80000,
+        "type": "Sports Car",
+        "body_style": "Two-door",
+        "mileage_mpg": 30,
+        "seating_capacity": 2
+    },
+    {
+        "make": "Subaru",
+        "model": "WRX",
+        "year": 2022,
+        "cost": 29000,
+        "type": "Sports Car",
+        "body_style": "Four-door",
+        "mileage_mpg": 22,
+        "seating_capacity": 5
+    },
+    {
+        "make": "Dodge",
+        "model": "Challenger",
+        "year": 2022,
+        "cost": 40000,
+        "type": "Sports Car",
+        "body_style": "Two-door",
+        "mileage_mpg": 18,
+        "seating_capacity": 5
+    },
+    {
+        "make": "Land Rover",
+        "model": "Defender",
+        "year": 2022,
+        "cost": 50000,
+        "type": "SUV",
+        "body_style": "Five-door",
+        "mileage_mpg": 20,
+        "seating_capacity": 5
+    },
+    {
+        "make": "Alfa Romeo",
+        "model": "Giulia",
+        "year": 2023,
+        "cost": 45000,
+        "type": "Sedan",
+        "body_style": "Four-door",
+        "mileage_mpg": 24,
+        "seating_capacity": 5
+    },
+    {
+        "make": "Genesis",
+        "model": "G80",
+        "year": 2023,
+        "cost": 55000,
+        "type": "Sedan",
+        "body_style": "Four-door",
+        "mileage_mpg": 27,
+        "seating_capacity": 5
+    },
+    {
+        "make": "Ram",
+        "model": "1500",
+        "year": 2022,
+        "cost": 38000,
+        "type": "Truck",
+        "body_style": "Four-door",
+        "mileage_mpg": 19,
+        "seating_capacity": 5
+    },
+    {
+        "make": "Volvo",
+        "model": "S60",
+        "year": 2023,
+        "cost": 40000,
+        "type": "Sedan",
+        "body_style": "Four-door",
+        "mileage_mpg": 30,
+        "seating_capacity": 5
+    },
+    {
+        "make": "Mini",
+        "model": "Cooper",
+        "year": 2022,
+        "cost": 28000,
+        "type": "Hatchback",
+        "body_style": "Four-door",
+        "mileage_mpg": 32,
+        "seating_capacity": 4
+    },
+    {
+        "make": "Smart",
+        "model": "Fortwo",
+        "year": 2023,
+        "cost": 25000,
+        "type": "Electric",
+        "body_style": "Two-door",
+        "mileage_mpg": 90,
+        "seating_capacity": 2
+    }
+]
